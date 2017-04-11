@@ -1,5 +1,5 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../飲水機_中文版.htm"/>
+ <o:MainFile HRef="../index.html"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.png"/>
@@ -20,6 +20,8 @@
  <o:File HRef="image016.jpg"/>
  <o:File HRef="image017.png"/>
  <o:File HRef="image018.jpg"/>
- <o:File HRef="header.htm"/>
+ <o:File HRef="image019.png"/>
+ <o:File HRef="image020.jpg"/>
+ <o:File HRef="header.html"/>
  <o:File HRef="filelist.xml"/>
 </xml>
